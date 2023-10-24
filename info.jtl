@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1698186080264,951,Create Project,200,OK,CRUD Project 1-1,text,true,,797,294,1,1,https://todo.ly/api/projects.json,951,0,709
+1698186081217,248,Update Project,200,OK,CRUD Project 1-1,text,true,,807,309,1,1,https://todo.ly/api/projects/4156866.json,247,0,0
+1698186081466,283,Read Project,200,OK,CRUD Project 1-1,text,true,,807,198,1,1,https://todo.ly/api/projects/4156866.json,283,0,0
+1698186081749,246,Delete Project,200,OK,CRUD Project 1-1,text,true,,806,284,1,1,https://todo.ly/api/projects/4156866.json,246,0,0
+1698186081996,0,Debug Sampler,200,OK,CRUD Project 1-1,text,true,,357,0,1,1,null,0,0,0
